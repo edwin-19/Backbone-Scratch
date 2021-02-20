@@ -1,5 +1,5 @@
 # Deep Learning Networks from scratch
-The idea here is to understand and write each neural network from scratch and replace them with more state of the art activation functions such as swish or mish.
+The idea here is to understand and write each backbone network from scratch and replace them with more state of the art activation functions such as swish or mish.
 
 Resnet:
 
