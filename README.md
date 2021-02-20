@@ -3,7 +3,7 @@ The idea here is to understand and write each neural network from scratch and re
 
 Resnet:
 
-    - [ ] Resnet50
+    - [x] Resnet50
     - [ ] Resnet101
     - [ ] Resnet152
 
