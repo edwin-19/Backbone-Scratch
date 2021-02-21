@@ -3,9 +3,9 @@ The idea here is to understand and write each backbone network from scratch and 
 
 Resnet:
 
-    - [x] Resnet50
-    - [ ] Resnet101
-    - [ ] Resnet152
+- [x] Resnet50
+- [x] Resnet101
+- [ ] Resnet152
 
 | Activation Function | Matthews Correlation Coefficient |
 |---------------------|----------------------------------|
