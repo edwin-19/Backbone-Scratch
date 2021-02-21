@@ -7,6 +7,7 @@ Resnet:
 - [x] Resnet101
 - [ ] Resnet152
 
+## Comparison of Activation Functions
 | Activation Function | Matthews Correlation Coefficient |
 |---------------------|----------------------------------|
 | Relu                | 96.09                            |
